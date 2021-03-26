@@ -1,7 +1,7 @@
 <?php
-$to = 'ahmedabnaby.97@gmail.com';
-$subject = 'AM I WORKING?';
-$headers = 'From: (Your site)' . "\r\n" . 'Content-type: text/html; charset=utf-8';
+$to = 'reem@awesome-blossom.com';
+$subject = 'New Message From Awesome-Blossom Website';
+$headers = 'From: Awesome-Blossom' . "\r\n" . 'Content-type: text/html; charset=utf-8';
 $message = '
 <html>
 	<head>
